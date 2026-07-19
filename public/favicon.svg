@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Shreya Beauty Parlour">
+  <rect width="64" height="64" rx="18" fill="#e0f2fe"/>
+  <path d="M32 10c7 9 17 14 17 27 0 10-7 17-17 17S15 47 15 37c0-13 10-18 17-27Z" fill="#38bdf8"/>
+  <path d="M23 35c5-1 8-5 9-12 2 8 5 12 10 13-4 1-8 4-10 11-1-7-5-10-9-12Z" fill="#fff"/>
+</svg>
