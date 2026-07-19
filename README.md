@@ -24,8 +24,8 @@ Add your Supabase project values to `.env`:
 ```bash
 VITE_SUPABASE_URL=https://your-project.supabase.co
 VITE_SUPABASE_ANON_KEY=your-public-anon-key
-VITE_SALON_PHONE=919876543210
-VITE_GOOGLE_MAPS_EMBED_URL=https://www.google.com/maps?q=Shreya%20Beauty%20Parlour&output=embed
+VITE_SALON_PHONE=91xxxxxxxxxx
+ 
 ```
 
 ## Supabase Setup
